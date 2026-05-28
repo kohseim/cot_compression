@@ -54,7 +54,7 @@ python src/datagenerationworker.py \
   --all_nests 2 4 --variant_types composed implicit
 ```
 
-### SFT ＆ RLVR
+### Training
 
 **SFT**
 
