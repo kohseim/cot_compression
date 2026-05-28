@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/TODO"><img src="https://img.shields.io/badge/arXiv-TODO-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2605.28008"><img src="https://img.shields.io/badge/arXiv-TODO-b31b1b.svg" alt="arXiv"></a>
 </p>
 
 ## Setup
@@ -96,7 +96,7 @@ This codebase builds on the [LlamaFactory](https://github.com/hiyouga/LlamaFacto
 @article{matsutani2026zipping,
   title={Zipping the Thought: When and How Compressed Reasoning Data Works in {LLM} Post-Training},
   author={Kohsei Matsutani, Gouki Minegishi, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2605.28008},
   year={2026}
 }
 ```
